@@ -1,0 +1,293 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="title" content="Where's Waldo? Where's Wally? Can You Find Waldo?"/>
+	<meta name="description" content="Where's WaldO? He is off on a new adventure, exploring the Web. Can You Find Him? Where's Wally? (titled Where's Waldo? in the United States and Canada, Où est Charlie? in french Canada, Find Holger in Denmark, and Wo ist Walter? in Germany) is a serii es of children's books created by the British illustrator Martin Handford. The goal is to find a certain man, Wally, in a busy picture full of people. Wally dresses in a red and white striped shirt and bobble hat, carries a wooden walking stick, and wears glasses. He is always losing things, including books, camping equipment and even his shoes, and readers are invited to spot these items in the illustrations as well."/>
+	<meta name="keywords" content="where's waldo?, where's wally?, wally, waldo, charlie,  martin handford"/>
+
+<title>Where's Waldo? Where's Wally? Can You Find Waldo?</title>
+	
+	<link href="../../_css/main.css" rel="stylesheet" type="text/css" />
+	<link href="../../_css/fankit.css" rel="stylesheet" type="text/css" />
+	<link href="../../_css/unitip.css" rel="stylesheet" type="text/css" />
+
+	<!--[if lte IE 6]>
+      <link href="_css/ie_6_fix.css" rel="stylesheet" type="text/css" />
+      <script type="text/javascript" src="_js/unitpngfix.js"></script>
+    <![endif]-->
+
+	<script type="text/javascript" src="../../_js/unitip.js"></script>
+	<script type="text/javascript" src="../../_js/jquery.js"></script>
+	<script type="text/javascript" src="../../_js/jquery-easing.1.2.pack.js"></script>
+	<script type="text/javascript" src="../../_js/jquery-easing-compatibility.1.2.pack.js"></script>
+	<script type="text/javascript" src="../../_js/coda-slider.1.1.1.js"></script>
+	
+	<!-- Initialize each slider on the page. Each slider must have a unique id -->
+	<script type="text/javascript">
+		jQuery(window).bind("load", function() {
+			jQuery("div#slider1").codaSlider()
+			// jQuery("div#slider2").codaSlider()
+			// etc, etc. Beware of cross-linking difficulties if using multiple sliders on one page.
+		});
+	</script>
+
+
+</head>
+
+<body>
+
+<div id="mainWrapper">
+
+		&nbsp;
+	
+		<div id="ww-map">
+		
+		<div id="ww-logo"><a class="ww_nav" href="http://www.findwaldo.com" title="Head on Home"></a></div>
+		
+			<div id="mainNav_wrapper">
+				<ul class="navButtons">
+					<li id="keepLooking"><a class="ww_nav" href="http://findwaldo.com/keeplooking" title="Latest news, dispatches, sightings and user generated media"><img src="../../_images/blank.gif" alt="keep looking"/></a></li>
+					<li id="hitTheRoad"><a class="ww_nav" href="http://findwaldo.com/hittheroad" title="Travel tips, hints and articles from Let’s Go"><img src="../../_images/blank.gif" alt="hit the road"/></a></li>
+					<li id="whereopedia"><a class="ww_nav" href="../../../wiki" title="All About Waldo" target="_blank">	<img src="../../_images/blank.gif" alt="whereopedia"/></a></li>
+					<li id="playAround"><a class="ww_nav" href="../../playaround.html" title="Games, avatars & more!">		<img src="../../_images/blank.gif" alt="playAround"/></a></li>
+					<li id="stayInTouch"><a class="ww_nav" href="../../stayintouch.html" title="Join my email list">		<img src="../../_images/blank.gif" alt="stayInTouch"/></a></li>
+					<li id="travelGear"><a class="ww_nav" href="../../travelgear.html" title="Buy merchandise">				<img src="../../_images/blank.gif" alt="travelGear"/></a></li>
+				</ul>
+			</div>
+			
+			<div id="fankitBG"><span>fankit background image</span></div>
+					
+			<div id="content">
+				
+				<span style="position: absolute; left: 165px; top: 15px;" ><img src="../../_images/fankit_images/browseKit-title.png" alt="browse kit title image" /></span>
+				
+			<noscript>
+				<span class="noSupport">Unfortunately your browser does not hava JavaScript capabilities which are required to exploit full functionality of our site. This could be the result of two possible scenarios:</span>
+				<ol>
+					<li>You are using an old web browser, in which case you should upgrade it to a newer version. We recommend the latest version of <a href="http://www.getfirefox.com">Firefox</a>.</li>
+					<li>You have disabled JavaScript in your browser, in which case you will have to enable it to properly use our site. <a href="http://www.google.com/support/bin/answer.py?answer=23852">Information on enabling JavaScript</a>.</li>
+				</ol>
+			</noscript>
+
+
+<div class="slider-wrap">
+	<div id="slider1" class="csw">
+		<div class="panelContainer">
+		
+		
+			<!-- !WALDO AND FRIENDS AND ODLAW -->
+		
+		
+			<div class="panel" title="Panel 1">
+				<div class="wrapper">
+
+					<h3><img src="../../_images/fankit_images/waldoFriendsOdlaw-title.png" alt="Waldo and Friends and Odlaw title image" width="279" height="25"/></h3>
+					
+						<span style="position: relative; width: 360px; float: left;">
+						<span class="title">Walking, Waving, Relaxing & Exploring!</span>
+							<br/><br/>
+							<a href="WaldoAndFriendsAndOdlaw/WaldoWalking.gif" target="_blank">		<img src="WaldoAndFriendsAndOdlaw/WaldoWalking.gif" 	height="135" alt="Waldo Walking Image" /></a>
+							<a href="WaldoAndFriendsAndOdlaw/WaldoWaving.gif" target="_blank">		<img src="WaldoAndFriendsAndOdlaw/WaldoWaving.gif" 		height="135" alt="Waldo Waving Image" /></a>
+							<a href="WaldoAndFriendsAndOdlaw/WaldoRelaxing.gif" target="_blank">	<img src="WaldoAndFriendsAndOdlaw/WaldoRelaxing.gif" 	height="135" alt="Waldo Relaxing Image" /></a>
+							<a href="WaldoAndFriendsAndOdlaw/WaldoExploring.gif" target="_blank">	<img src="WaldoAndFriendsAndOdlaw/WaldoExploring.gif" 	height="135" alt="Waldo Exploring Image" /></a>
+							<br/>
+						<span class="title">Wenda, Wizard Whitebeard, Woof & Odlaw</span>
+							<br/><br/>
+							<a href="WaldoAndFriendsAndOdlaw/Wenda.gif" target="_blank">			<img src="WaldoAndFriendsAndOdlaw/Wenda.gif" 			height="135" alt="Wenda Image" /></a>
+							<a href="WaldoAndFriendsAndOdlaw/Wizard.gif" target="_blank">			<img src="WaldoAndFriendsAndOdlaw/Wizard.gif" 			height="135" alt="Wizard Image" /></a>
+							<a href="WaldoAndFriendsAndOdlaw/Woof.gif" target="_blank">				<img src="WaldoAndFriendsAndOdlaw/Woof.gif" 			height="70" alt="Woof Image" /></a>
+							<a href="WaldoAndFriendsAndOdlaw/Odlaw.gif" target="_blank">			<img src="WaldoAndFriendsAndOdlaw/Odlaw.gif" 			height="135" alt="Odlaw Image" /></a>
+						</span>
+						
+						<span style="position: relative; float: left; height: 350px;">
+						<span class="title">Character Graphics</span>
+							<br/><br/>
+							<a href="WaldoAndFriendsAndOdlaw/MysteryMan.gif" target="_blank">		<img src="WaldoAndFriendsAndOdlaw/MysteryMan.gif" 		height="65" alt="Mystery Man Image" /></a>
+							<a href="WaldoAndFriendsAndOdlaw/waldoheadshot.gif" target="_blank">	<img src="WaldoAndFriendsAndOdlaw/waldoheadshot.gif" 	height="65" alt="waldo headshot Image" /></a>
+							<a href="WaldoAndFriendsAndOdlaw/wavingarm.gif" target="_blank">		<img src="WaldoAndFriendsAndOdlaw/wavingarm.gif" 		height="65" alt="waving arm Image" /></a><br/>
+							<a href="WaldoAndFriendsAndOdlaw/waldo-curl-wave.gif" target="_blank">	<img src="WaldoAndFriendsAndOdlaw/waldo-curl-wave.gif" 	height="90" alt="waldo curl wave Image" /></a>
+							<a href="WaldoAndFriendsAndOdlaw/waldo-curl-face.gif" target="_blank">	<img src="WaldoAndFriendsAndOdlaw/waldo-curl-face.gif" 	height="90" alt="waldo curl face Image" /></a>
+						</span>
+					
+				</div>
+			</div>
+			
+			
+			<!-- !TOOLS FOR YOUR TRAVEL LOG -->
+			
+			
+			<div class="panel" title="Panel 2">
+				<div class="wrapper">
+					<h3><img src="../../_images/fankit_images/travelLog-title.png" alt="Tools for your travel log title image" width="212" height="28"/></h3>
+					
+						
+						<span style="position: relative; width: 315px; float: left;">
+						<span class="title">Crests</span><br/><br/>
+							<a href="ToolsForYourTravelLog/Crests/CrestParis.gif" target="_blank">	<img src="ToolsForYourTravelLog/Crests/CrestParis.gif" 	height="65" alt="Crest Paris" /></a>
+							<a href="ToolsForYourTravelLog/Crests/CrestLondon.gif" target="_blank">	<img src="ToolsForYourTravelLog/Crests/CrestLondon.gif" height="65" alt="Crest London" /></a>
+							<a href="ToolsForYourTravelLog/Crests/CrestTokyo.gif" target="_blank">	<img src="ToolsForYourTravelLog/Crests/CrestTokyo.gif" 	height="65" alt="Crest Tokyo" /></a>
+							<br/><br/>
+						
+						<span class="title">Patches</span><br/><br/>
+							<a href="ToolsForYourTravelLog/Patches/PatchSearchAndFind.gif" target="_blank">	<img src="ToolsForYourTravelLog/Patches/PatchSearchAndFind.gif" height="65" alt="Patch Search And Find" /></a>
+							<a href="ToolsForYourTravelLog/Patches/PatchTakeAHike.gif" target="_blank">		<img src="ToolsForYourTravelLog/Patches/PatchTakeAHike.gif" 	height="65" alt="Patch Take A Hike" /></a>
+							<a href="ToolsForYourTravelLog/Patches/PatchWaldoSide.gif" target="_blank">		<img src="ToolsForYourTravelLog/Patches/PatchWaldoSide.gif" 	height="65" alt="Patch Waldo Side" /></a>
+							<br/><br/>
+							
+						<span class="title">Stamps</span><br/><br/>
+							<a href="ToolsForYourTravelLog/Stamps/StampAdventure.gif" target="_blank">	<img src="ToolsForYourTravelLog/Stamps/StampAdventure.gif" 	height="65" alt="Stamp Adventure" /></a>
+							<a href="ToolsForYourTravelLog/Stamps/StampEuropa.gif" target="_blank">		<img src="ToolsForYourTravelLog/Stamps/StampEuropa.gif" 	height="65" alt="Stamp Europa" /></a>
+							<a href="ToolsForYourTravelLog/Stamps/StampUSA.gif" target="_blank">		<img src="ToolsForYourTravelLog/Stamps/StampUSA.gif" 		height="65" alt="Stamp USA" /></a>
+						</span>
+						
+							
+						<span style="position: relative; float: left; height: 320px; width: 250px;">
+						<span class="title">Flags</span>
+							<br/><br/>
+							<a href="ToolsForYourTravelLog/Flags/Australia.jpg" target="_blank">	<img src="ToolsForYourTravelLog/Flags/Australia.jpg" 	height="50" alt="Australia Flag" /></a>
+							<a href="ToolsForYourTravelLog/Flags/Espana.jpg" target="_blank">		<img src="ToolsForYourTravelLog/Flags/Espana.jpg" 		height="50" alt="Espana Flag"/></a>
+							<a href="ToolsForYourTravelLog/Flags/Iceland.jpg" target="_blank">		<img src="ToolsForYourTravelLog/Flags/Iceland.jpg" 		height="50" alt="Iceland Flag"/></a>
+							<a href="ToolsForYourTravelLog/Flags/Japan.jpg" target="_blank">		<img src="ToolsForYourTravelLog/Flags/Japan.jpg" 		height="50" alt="Japan Flag" /></a>
+							<a href="ToolsForYourTravelLog/Flags/Luxembourg.jpg" target="_blank">	<img src="ToolsForYourTravelLog/Flags/Luxembourg.jpg" 	height="50" alt="Luxembourg Flag" /></a>
+							<a href="ToolsForYourTravelLog/Flags/Poland.jpg" target="_blank">		<img src="ToolsForYourTravelLog/Flags/Poland.jpg" 		height="50" alt="Poland Flag" /></a>
+							<a href="ToolsForYourTravelLog/Flags/UK.jpg" target="_blank">			<img src="ToolsForYourTravelLog/Flags/UK.jpg" 			height="50" alt="UK Flag" /></a>
+							<a href="ToolsForYourTravelLog/Flags/sweden.jpg" target="_blank">		<img src="ToolsForYourTravelLog/Flags/sweden.jpg" 		height="50" alt="sweden Flag" /></a>
+							<a href="ToolsForYourTravelLog/Flags/Denmark.jpg" target="_blank">		<img src="ToolsForYourTravelLog/Flags/Denmark.jpg" 		height="50" alt="Denmark Flag" /></a>
+							<a href="ToolsForYourTravelLog/Flags/France.jpg" target="_blank">		<img src="ToolsForYourTravelLog/Flags/France.jpg" 		height="50" alt="France Flag" /></a>
+							<a href="ToolsForYourTravelLog/Flags/Italy.jpg" target="_blank">		<img src="ToolsForYourTravelLog/Flags/Italy.jpg" 		height="50" alt="Italy Flag" /></a>
+							<a href="ToolsForYourTravelLog/Flags/Korea.jpg" target="_blank">		<img src="ToolsForYourTravelLog/Flags/Korea.jpg" 		height="50" alt="Korea Flag" /></a>
+							<a href="ToolsForYourTravelLog/Flags/Morocco.jpg" target="_blank">		<img src="ToolsForYourTravelLog/Flags/Morocco.jpg" 		height="50" alt="Morocco Flag" /></a>
+							<a href="ToolsForYourTravelLog/Flags/Switzerland.jpg" target="_blank">	<img src="ToolsForYourTravelLog/Flags/Switzerland.jpg" 	height="50" alt="Switzerland Flag" /></a>
+							<a href="ToolsForYourTravelLog/Flags/USA.jpg" target="_blank">			<img src="ToolsForYourTravelLog/Flags/USA.jpg" 			height="50" alt="USA Flag" /></a>
+							</span>
+					
+				</div>
+			</div>		
+			
+			
+			<!-- !GET STRIPED! STRIPES -->
+			
+			
+			<div class="panel" title="Panel 3">
+				<div class="wrapper">
+					<h3><img src="../../_images/fankit_images/getStriped-title.png" alt="Get Striped! Stripes title image" width="178" height="28"/></h3>
+							
+							<div class="title">Primary Stripe</div><br/>
+							<a href="GetStripedStripes/PrimaryStripe.gif" target="_blank">		<img src="GetStripedStripes/PrimaryStripe.gif" 		height="15" alt="Primary Stripe" /></a><br/><br/>
+							
+							<div class="title">Three Color Stripe</div><br/>
+							<a href="GetStripedStripes/ThreeColorStripe.gif" target="_blank">	<img src="GetStripedStripes/ThreeColorStripe.gif" 	height="50" alt="Three Color Stripe" /></a>
+							<br/><br/>
+							
+							<div class="title">Leading Stripe</div><br/>
+							<a href="GetStripedStripes/LeadingStripe.gif" target="_blank">		<img src="GetStripedStripes/LeadingStripe.gif" width="250" alt="Leading Stripe" /></a>
+							<br/>
+							
+				</div>
+			</div>
+			
+			
+			<!-- !PATTERNS TO LIVEN UP YOUR PROFILE -->
+			
+			
+			<div class="panel" title="Panel 4">
+				<div class="wrapper">
+					<h3><img src="../../_images/fankit_images/patterns-title.png" alt="Patterns to liven up your profile title image" width="296" height="28"/></h3>
+							
+							<a href="PatternsForProfiles/whereswaldobrown.gif" target="_blank"><img src="PatternsForProfiles/whereswaldobrown.gif" width="175" height="175" alt="wheres waldo brown pattern" /></a>
+							<span style="margin-left: 15px;"><a href="PatternsForProfiles/bonvoyagewhite.gif" target="_blank"><img src="PatternsForProfiles/bonvoyagewhite.gif" width="175" height="175" alt="bonvoyage white pattern" /></a></span>
+							<span style="margin-left: 15px;"><a href="PatternsForProfiles/lostandfound.gif" target="_blank"><img src="PatternsForProfiles/lostandfound.gif" width="175" height="175" alt="lost and found pattern" /></a></span>
+						
+
+				</div>
+			</div>
+			
+			
+			<!-- !INTERNATIONAL MAN OF LITERATURE -->
+			
+			
+			<div class="panel" title="Panel 5">
+				<div class="wrapper">
+					<h3><img src="../../_images/fankit_images/manOfLiterature-title.png" alt="International man of literature title image" width="284" height="24"/></h3>
+					
+							<div class="title">3 scenes: The Gobbling Gluttons, At the Beach &amp; Department Store</div><br/>
+							<a href="IntlManOfLiterature/Scenes/TheGobblingGluttons.jpg" target="_blank">	<img src="IntlManOfLiterature/Scenes/TheGobblingGluttons.jpg" 	width="165" alt="The Gobbling Gluttons Scene" /></a>
+							<a href="IntlManOfLiterature/Scenes/AtTheBeach.jpg" target="_blank">			<img src="IntlManOfLiterature/Scenes/AtTheBeach.jpg" 			width="165" alt="At The Beach Scene" /></a>
+							<a href="IntlManOfLiterature/Scenes/DepartmentStore.jpg" target="_blank">		<img src="IntlManOfLiterature/Scenes/DepartmentStore.jpg" 		width="165" alt="Department Store Scene" /></a>
+							<br/><br/>
+							<div class="title">Global Covers of the Original <em>Where's Waldo?</em><br/>(Spain, France, Israel, Japan & North America)</div><br/>
+							<a href="IntlManOfLiterature/BookCovers/Espana.jpg" target="_blank">			<img src="IntlManOfLiterature/BookCovers/Espana.jpg" 			height="100" alt="Espana Book" /></a>
+							<a href="IntlManOfLiterature/BookCovers/France.jpg" target="_blank">			<img src="IntlManOfLiterature/BookCovers/France.jpg" 			height="100" alt="France Book" /></a>
+							<a href="IntlManOfLiterature/BookCovers/Israel.jpg" target="_blank">			<img src="IntlManOfLiterature/BookCovers/Israel.jpg" 			height="100" alt="Israel Book" /></a>
+							<a href="IntlManOfLiterature/BookCovers/Japan.jpg" target="_blank">				<img src="IntlManOfLiterature/BookCovers/Japan.jpg" 			height="100" alt="Japan Book" /></a>
+							<a href="IntlManOfLiterature/BookCovers/NorthAmerica.jpg" target="_blank">		<img src="IntlManOfLiterature/BookCovers/NorthAmerica.jpg" 		height="100" alt="North America Book" /></a>
+							<br/>
+					
+				</div>
+			</div>
+			
+			
+			<!-- !ICONIC GEAR FOR HITTING THE ROAD --> 
+			
+			
+			<div class="panel" title="Panel 6">
+				<div class="wrapper">
+					<h3><img src="../../_images/fankit_images/gearsForTheRoad-title.png" alt="Waldo and Friends and Odlaw title image" width="279" height="27"/></h3>
+					
+							<div class="title">ICONic Gear for Hitting the Road</div>
+							<br/>
+							<a href="ICONicGear/iconBinoculars.png" 	target="_blank"><img src="ICONicGear/iconBinoculars.png" 	height="100" alt="Binoculars Icon" /></a>
+							<a href="ICONicGear/iconCamera.png" 		target="_blank"><img src="ICONicGear/iconCamera.png" 		height="100" alt="Camera Icon"/></a>
+							<a href="ICONicGear/iconGlasses.png" 		target="_blank"><img src="ICONicGear/iconGlasses.png" 		height="100" alt="Glasses Icon" /></a>
+							<a href="ICONicGear/iconHat.png" 			target="_blank"><img src="ICONicGear/iconHat.png" 			height="100" alt="Hat Icon" /></a>
+							<br/>	 															  
+							<a href="ICONicGear/iconMug.png" 			target="_blank"><img src="ICONicGear/iconMug.png" 			height="100" alt="Mug Icon" /></a>
+							<a href="ICONicGear/iconPack.png" 			target="_blank"><img src="ICONicGear/iconPack.png" 			height="100" alt="Pack Icon" /></a>
+							<a href="ICONicGear/iconWaldo.png" 			target="_blank"><img src="ICONicGear/iconWaldo.png" 		height="100" alt="Waldo Icon" /></a>
+							<a href="ICONicGear/iconWalkingStick.png" 	target="_blank"><img src="ICONicGear/iconWalkingStick.png" 	height="100" alt="Walking Stick Icon"/></a>
+							<br/><br/>
+					
+
+				</div>
+			</div>
+			
+		</div><!-- .panelContainer -->
+	</div><!-- #slider1 -->
+
+</div><!-- .slider-wrap -->
+
+
+<div class="licenseNote">By clicking on any of the links above, you automatically agree to the <a href="../license.html" title="license" target="_blank">Creativity Kit License</a>. Each category will display the set of individual graphics available. You can click on these to download and save.</div>
+
+<a id="backToFanKit_btn" href="../index.html" ><span>back to fankit</span></a>
+								
+
+</div> <!-- content end div -->			
+</div> <!-- ww-map end div -->
+	
+
+<!-- ALL CONTENT NEEDS TO BE ABOVE THIS CODE -->
+	
+	<div id="push">&nbsp;</div>
+	
+</div> <!-- mainWrapper end div -->
+	
+<div id="footer">
+	<p>
+	© 2008 Entertainment Rights Distribution Limited.  All rights reserved.&nbsp;&nbsp;<a href="terms.html" target="_blank">TOU</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="privacy.html" target="_blank">PP</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="javascript:window.external.addFavorite('http://www.findwaldo.com','Where's Waldo?');">Bookmark</a>
+	</p>
+</div>
+
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-4546744-2");
+  pageTracker._trackPageview();
+</script>
+
+</body>
+</html>
